@@ -1,3 +1,2 @@
 # Proyecto-Final- calculador de gastos 
 
-El "Calculador de Gastos" en C# es un programa que permite a los usuarios gestionar sus gastos financieros de manera organizada. Los usuarios pueden agregar, editar y eliminar gastos, asignar categorías a cada gasto (por ejemplo, alimentación, transporte, entretenimiento) y visualizar un historial completo de sus transacciones. Además, el programa calcula y muestra el total de gastos acumulados y el gasto total por categoría. Además, el programa ofrece persistencia de datos al guardar y cargar la información desde un archivo, permitiendo a los usuarios mantener un registro consistente de sus gastos a lo largo del tiempo.
